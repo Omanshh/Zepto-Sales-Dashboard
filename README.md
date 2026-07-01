@@ -14,9 +14,6 @@ This Power BI dashboard analyzes Zepto's sales performance across different outl
 - Low-fat products contributed the majority of revenue.
 - Sales peaked in 2023 and 2024.
 
-## Dashboard Preview
-(Add screenshot here)
-
 ## Skills Demonstrated
 - Data Cleaning
 - Data Modeling
